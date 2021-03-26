@@ -1,0 +1,3 @@
+01. Open folder in any code editor
+02. In dist folder type "npm i"
+03. After "npm start" 

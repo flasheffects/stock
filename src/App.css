@@ -1,0 +1,48 @@
+.row {
+  margin: 0 !important;
+  display: contents;
+}
+
+* {
+  transition: 0.3s;
+}
+
+.table-bordered thead th,
+.table-bordered thead td {
+  margin: 0;
+  padding: 0;
+}
+
+td {
+  font-size: 13px;
+  align-items: center;
+}
+table th,
+.table td {
+  padding: 4px 4px 4px 26px;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  cursor: pointer;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+  height: 60px;
+  border: 1px solid transparent;
+  outline: none !important;
+  box-shadow: none;
+  color: #ffffff;
+  background: #343a40;
+}
+
+button:hover {
+  background: #3e444a;
+}
+
+.arrows {
+  position: absolute;
+  top: 0;
+  margin: 0 0 0 10px;
+}
